@@ -6,6 +6,8 @@ target CGPA, and receive AI-powered academic recommendations — complete with
 a downloadable PDF report.
 
 ---
+Live Demo - https://smart-cgpa-calculator.streamlit.app/
+---
 
 ## ✨ Features
 
